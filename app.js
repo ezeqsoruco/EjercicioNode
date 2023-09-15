@@ -76,7 +76,7 @@ function modificarContactoPorId2(id, datos) {
 //mostrarTelefonos();
 //buscarPorId(2);
 //buscarPorNombre("39-44-5323523");
-//agregarContacto({ id: 5, name: "Ezequiel", number: "3515902816" });
+agregarContacto({ id: 5, name: "Ezequiel", number: "3515902816" });
 //borrarContacto("040-123456");
 contactosCon3();
 //borrarContacto(2);
