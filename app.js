@@ -80,6 +80,6 @@ function modificarContactoPorId2(id, datos) {
 //borrarContacto("040-123456");
 //contactosCon3();
 //borrarContacto(2);
-//modificarContactoPorId(2, "Ada");
+modificarContactoPorId(2, "Ada");
 
 modificarContactoPorId2(2, { nombre: "Ezequiel", numero: "2424344324" });
